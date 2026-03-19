@@ -1,4 +1,4 @@
-# Interiors by Vasu — Premium Interior Design Portfolio
+# De`Sign — Premium Interior Design Portfolio
 
 A full-stack interior design portfolio website with vendor management and user authentication.
 
